@@ -2,4 +2,4 @@
 layout: about
 ---
 
-Birşeyler karalıyorum.
+talebeyim :)
